@@ -1,25 +1,30 @@
-# CProject
+# Forest Adventure Pro
 
-A simple C programming project demonstrating basic programming concepts, problem-solving, and coding skills.
+A creative and interactive **text-based adventure game** in C.
 
 ---
 
 ## Description
 
-This project contains C code that showcases my understanding of C programming, including:  
+In this game, the player explores a forest, farms gold, buys potions, and fights mini-bosses. The game uses:
 
-- Basic input/output (`printf`, `scanf`)  
-- Functions and modular code  
-- Loops and conditional statements  
-- Simple algorithms
-
-It is part of my portfolio to demonstrate my programming abilities.
+- Random events in the forest 🌲
+- Strategic gold farming 💰
+- Potion system for healing 🍷
+- Mini-boss battles ⚔️
+- Inventory system to track health, gold, and potions 🎒
+- Fun emojis and colored text for a lively terminal interface
 
 ---
 
-## Files
+## Features
 
-- `main.c` : The main C program file containing the source code.
+1. **Explore the Forest** – Encounter wolves, find treasures, discover potions, or face mini-bosses.  
+2. **Farm Gold** – Gather gold to buy potions and prepare for battles.  
+3. **Visit Village** – Buy potions or talk to villagers for hints.  
+4. **Rest at Camp** – Restore health.  
+5. **Inventory Check** – See current health, gold, and potion count.  
+6. **Mini-Boss Battles** – Fight Goblin Bosses using sword, magic, or potions.  
 
 ---
 
@@ -27,4 +32,4 @@ It is part of my portfolio to demonstrate my programming abilities.
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/YourUsername/CProject.git# CProject
+git clone https://github.com/YourUsername/CProject.git
