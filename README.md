@@ -8,11 +8,11 @@ A creative and interactive **text-based adventure game** in C.
 
 In this game, the player explores a forest, farms gold, buys potions, and fights mini bosses. The game uses:
 
-- Random events in the forest 🌲
-- Strategic gold farming 💰
-- Potion system for healing 🍷
-- Mini-boss battles ⚔️
-- Inventory system to track health, gold, and potions 🎒
+- Random events in the forest 
+- Strategic gold farming 
+- Potion system for healing 
+- Mini-boss battles 
+- Inventory system to track health, gold, and potions 
 - Fun emojis and colored text for a lively terminal interface
 
 ---
