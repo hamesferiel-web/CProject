@@ -32,4 +32,4 @@ In this game, the player explores a forest, farms gold, buys potions, and fights
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/YourUsername/CProject.git
+git clone https://github.com/hamesferiel-web/CProject.git
