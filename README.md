@@ -6,7 +6,7 @@ A creative and interactive **text-based adventure game** in C.
 
 ## Description
 
-In this game, the player explores a forest, farms gold, buys potions, and fights mini-bosses. The game uses:
+In this game, the player explores a forest, farms gold, buys potions, and fights mini bosses. The game uses:
 
 - Random events in the forest 🌲
 - Strategic gold farming 💰
@@ -19,12 +19,12 @@ In this game, the player explores a forest, farms gold, buys potions, and fights
 
 ## Features
 
-1. **Explore the Forest** – Encounter wolves, find treasures, discover potions, or face mini-bosses.  
-2. **Farm Gold** – Gather gold to buy potions and prepare for battles.  
-3. **Visit Village** – Buy potions or talk to villagers for hints.  
-4. **Rest at Camp** – Restore health.  
-5. **Inventory Check** – See current health, gold, and potion count.  
-6. **Mini-Boss Battles** – Fight Goblin Bosses using sword, magic, or potions.  
+1. **Explore the Forest**: Encounter wolves, find treasures, discover potions, or face mini bosses.  
+2. **Farm Gold**: Gather gold to buy potions and prepare for battles.  
+3. **Visit Village**: Buy potions or talk to villagers for hints.  
+4. **Rest at Camp**: Restore health.  
+5. **Inventory Check**: See current health, gold, and potion count.  
+6. **Mini Boss Battles**: Fight Goblin Bosses using sword, magic, or potions.  
 
 ---
 
